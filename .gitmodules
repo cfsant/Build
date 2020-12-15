@@ -1,3 +1,6 @@
 [submodule "Protos"]
 	path = Protos
 	url = https://github.com/cfsant/Protos.git
+[submodule "Services"]
+	path = Services
+	url = https://github.com/cfsant/Services.git
