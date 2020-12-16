@@ -1,8 +1,4 @@
-import sys, os, threading, subprocess
-
-def launcher(target, args):
-    thread = threading.Thread(target=target, args=args)
-    thread.start()
+import sys, os
 
 def main():
     os.system('cls')

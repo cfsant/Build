@@ -1,4 +1,4 @@
-import sys, os, threading, subprocess
+import sys, os
 
 def main():
     os.system('cls')
